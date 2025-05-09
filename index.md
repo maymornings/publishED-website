@@ -7,8 +7,8 @@
   <body>
     
   <div class="your-class">
-    <div>your content</div>
-    <div>your content</div>
+    <div>![alt text](Images/Geographies Cover Page.png)</div>
+    <div>![alt text](Images/Transience Cover Page.png)</div>
     <div>your content</div>
   </div>
   
