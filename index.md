@@ -15,6 +15,14 @@
   <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
   
   <script type="text/javascript" src="Script.js"></script>
+
+  $(document).ready(function(){
+  $('.Inkwell Carousel').slick({
+  infinite: true,
+  slidesToShow: 3,
+  slidesToScroll: 3
+  });
+});
 </body>
   
 </html>
