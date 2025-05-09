@@ -7,8 +7,8 @@
   <body>
     
   <div class="Inkwell Carousel">
-    <img src="Images/Geographies-Cover-Page.png" alt="Geographies" width=150>
-    <img src="Images/Transience-Cover-Page.png" alt="Transience" width=150>
+    <img src="Images/Geographies-Cover-Page.png" alt="Geographies" width=215>
+    <img src="Images/Transience-Cover-Page.png" alt="Transience" width=215>
   </div>
   
   <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
