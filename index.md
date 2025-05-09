@@ -1,28 +1,19 @@
 <html>
 <head>
   <title>My Now Amazing Webpage</title>
-  <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
-  <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 </head>
 <body>   
   <div class="Inkwell Carousel">
     <img src="Images/Geographies-Cover-Page.png" alt="Geographies" width=215>
     <img src="Images/Transience-Cover-Page.png" alt="Transience" width=215>
   </div>
-  
+
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
   <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
   <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-  <script type="text/javascript" src="slick/slick.min.js"></script>
-
-  <script type="text/javascript">
-    $(document).ready(function(){
-      $('.your-class').slick({
-        setting-name: setting-value
-      });
-    });
-  </script>
-
-  </body>
+  <script type="text/javascript" src="Script.js"></script>
+</body>
   
 </html>
 ---
