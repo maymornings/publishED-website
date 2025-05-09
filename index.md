@@ -7,8 +7,8 @@
   <body>
     
   <div class="your-class">
-    <div>![alt text](Images/Geographies Cover Page.png)</div>
-    <div>![alt text](Images/Transience Cover Page.png)</div>
+    <div>![alt text](https://github.com/maymornings/publishED-website/blob/main/Images/Geographies%20Cover%20Page.png)</div>
+    <div>![alt text](https://github.com/maymornings/publishED-website/blob/main/Images/Transience%20Cover%20Page.png)</div>
     <div>your content</div>
   </div>
   
