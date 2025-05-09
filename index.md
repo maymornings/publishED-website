@@ -7,7 +7,7 @@
   <body>
     
   <div class="Inkwell Carousel">
-    <img src="https://github.com/maymornings/publishED-website/blob/e7af03aec6f20885d8f3538a1ba634b642f8f3e5/Images/Geographies-Cover-Page.png"/>
+    ![Geographies](https://github.com/maymornings/publishED-website/blob/e7af03aec6f20885d8f3538a1ba634b642f8f3e5/Images/Geographies-Cover-Page.png "Geographies")
     <img src="https://github.com/maymornings/publishED-website/blob/main/Images/Transience Cover Page.png"/>
   </div>
   
