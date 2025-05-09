@@ -1,6 +1,5 @@
 <html>
 <head>
-  <title>My Now Amazing Webpage</title>
   <link rel="stylesheet" type="text/css" href="Slick/slick-1.8.1/slick/slick.css"/>
   <link rel="stylesheet" type="text/css" href="Slick/slick-1.8.1/slick/slick-theme.css"/>
 </head>
