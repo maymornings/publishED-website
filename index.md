@@ -17,7 +17,7 @@
   
   <script>
     $(document).ready(function(){
-      $('.your-class').slick({
+      $('.Inkwell Carousel').slick({
         setting-name: setting-value
       });
     });
