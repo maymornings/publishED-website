@@ -6,7 +6,7 @@
   </head>
   <body>
     
-  <div class="your-class">
+  <div class="Inkwell Carousel">
     <div>![alt text](https://github.com/maymornings/publishED-website/blob/bb96c3fa2601de480e15680f61ff3cae27a60a91/Images/Geographies%20Cover%20Page.png) </div>
     <div>![alt text](https://github.com/maymornings/publishED-website/blob/main/Images/Transience Cover Page.png)</div>
     <div>your content</div>
