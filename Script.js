@@ -1,5 +1,7 @@
 $(document).ready(function(){
   $('.Inkwell Carousel').slick({
-    setting-name: setting-value
+  infinite: true,
+  slidesToShow: 3,
+  slidesToScroll: 3
   });
 });
