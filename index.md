@@ -3,9 +3,8 @@
   <title>My Now Amazing Webpage</title>
   <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
   <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
-  </head>
-  <body>
-    
+</head>
+<body>   
   <div class="Inkwell Carousel">
     <img src="Images/Geographies-Cover-Page.png" alt="Geographies" width=215>
     <img src="Images/Transience-Cover-Page.png" alt="Transience" width=215>
