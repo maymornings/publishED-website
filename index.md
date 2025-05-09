@@ -7,7 +7,7 @@
   <body>
     
   <div class="Inkwell Carousel">
-    <img src=Images/Geographies-Cover-Page.png alt="Geographies" width=300/>
+    <img src="Images/Geographies-Cover-Page.png" alt="Geographies" width=300/>
     <img width="123" alt="https://github.com/maymornings/publishED-website/blob/main/Images/Transience Cover Page.png"/>
   </div>
   
