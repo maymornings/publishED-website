@@ -19,6 +19,7 @@
 			},
 		},
   } ).mount();
+} );
 </script>
   <div class="Inkwell Carousel">
     <div>
