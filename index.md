@@ -14,13 +14,7 @@
 </section>
   <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
   <script>
-	document.addEventListener( 'DOMContentLoaded', function () {
-  		var splide = new Splide( '.splide', {
-		perPage : 2,
-	  	width : '100vw',
-		height: '100vh',
-    splide.mount();
-  } );
+  new Splide( '.splide' ).mount();
 </script>
   <div class="Inkwell Carousel">
     <div>
