@@ -6,9 +6,15 @@
   <section class="splide" aria-label="Splide Basic HTML Example">
   <div class="splide__track">
 		<ul class="splide__list">
-			<li class="splide__slide">Slide 01</li>
-			<li class="splide__slide">Slide 02</li>
-			<li class="splide__slide">Slide 03</li>
+			<li class="splide__slide">
+				<img src="Images/Geographies-Cover-Page.png" alt="Geographies" width=215>
+			</li>
+			<li class="splide__slide">
+				<img src="Images/Transience-Cover-Page.png" alt="Transience" width=215>
+			</li>
+			<li class="splide__slide">
+				<img src="Images/Transience-Cover-Page.png" alt="Transience" width=215>
+			</li>
 		</ul>
   </div>
 </section>
