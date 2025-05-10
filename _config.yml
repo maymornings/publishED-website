@@ -1,2 +1,6 @@
 theme: minima
-title: The Inkwell
+title: Publish.ED
+body {
+  margin: 0 auto;
+  max-width: 50em;
+}
