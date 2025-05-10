@@ -24,33 +24,6 @@
 	type: 'loop'
 }).mount();
 </script>
-  <div class="Inkwell Carousel">
-    <div>
-      <img src="Images/Geographies-Cover-Page.png" alt="Geographies" width=215>
-    </div>
-    <div>
-    <img src="Images/Transience-Cover-Page.png" alt="Transience" width=215>
-    </div>
-    <div>
-    <img src="Images/Transience-Cover-Page.png" alt="Transience" width=215>
-    </div>
-    <div>
-    <img src="Images/Transience-Cover-Page.png" alt="Transience" width=215>
-    </div>
-  </div>
-
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.5.2/jquery-migrate.min.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
-  
-  <script>
-    $(document).ready(function(){
-      $('.Inkwell Carousel').slick({
-        setting-name: setting-value
-      });
-    });
-  </script>
-
 
 </body>
 </html>
