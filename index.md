@@ -20,7 +20,6 @@
   <script>
  document.addEventListener( 'DOMContentLoaded', function () {
   new Splide('.splide', {
-	width : '100vw',
 	type: 'loop',
 	perPage    : 3,
 }).mount();
