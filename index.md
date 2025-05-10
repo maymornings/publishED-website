@@ -15,6 +15,7 @@
   <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
   <script>
   new Splide( '.splide' ).mount();
+	perPage    : 3,
 </script>
   <div class="Inkwell Carousel">
     <div>
