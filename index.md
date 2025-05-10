@@ -23,6 +23,7 @@
   new Splide('.splide', {
 	type: 'loop',
 	perPage    : 3,
+	width : '100vw',
 }).mount();
 </script>
 
