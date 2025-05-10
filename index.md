@@ -20,7 +20,9 @@
 </section>
   <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
   <script>
-  new Splide( '.splide' ).mount();
+  new Splide('.splide', {
+	type: 'loop'
+}).mount();
 </script>
   <div class="Inkwell Carousel">
     <div>
