@@ -1,12 +1,6 @@
 <html>
----
-layout: default
-title: Home
----
 <head>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
-</head>
-<body> 
   <section class="splide" aria-label="Splide Basic HTML Example">
   <div class="splide__track">
 		<ul class="splide__list">
@@ -31,6 +25,8 @@ title: Home
 	perPage    : 3,
 }).mount();
 </script>
+</head>
+<body> 
 </body>
 </html>
 ---
