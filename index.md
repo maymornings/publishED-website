@@ -1,8 +1,6 @@
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
-</head>
-<body> 
   <section class="splide" aria-label="Splide Basic HTML Example">
   <div class="splide__track">
 		<ul class="splide__list">
@@ -20,13 +18,15 @@
 </section>
   <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
   <script>
+ document.addEventListener( 'DOMContentLoaded', function () {
   new Splide('.splide', {
 	width : '100vw',
 	type: 'loop',
 	perPage    : 3,
 }).mount();
 </script>
-
+</head>
+<body> 
 </body>
 </html>
 ---
